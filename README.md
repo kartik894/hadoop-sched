@@ -1,1 +1,1 @@
-This repository contains the modified hadoop source code for a new scheduler. The aim of the scheduler is not to spawn speculative tasks unnecessarily. A cost-benefit ratio based on a cost-benefit model. Refer to the [Report](https://github.com/kartik894/hadoop-sched/blob/master/Report.pdf) for more details.
+This repository contains the modified hadoop source code for a new scheduler. The aim of the scheduler is not to spawn speculative tasks unnecessarily. Refer to the [Report](https://github.com/kartik894/hadoop-sched/blob/master/Report.pdf) for more details.
